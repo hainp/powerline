@@ -45,17 +45,17 @@
   :group 'powerline)
 
 (defface powerline-inactive1
-  '((t (:background "#fdf6e3" :inherit mode-line-inactive)))
+  '((t (:background "#69D2E7" :inherit mode-line-inactive)))
   "Powerline face 1."
   :group 'powerline)
 
 (defface powerline-inactive2
-  '((t (:background "#859900" :inherit mode-line-inactive)))
+  '((t (:background "#A7DBD8" :inherit mode-line-inactive)))
   "Powerline face 2."
   :group 'powerline)
 
 (defface powerline-inactive3
-  '((t (:background "#b58900" :inherit mode-line-inactive)))
+  '((t (:background "#859900" :inherit mode-line-inactive)))
   "Powerline face 2."
   :group 'powerline)
 
