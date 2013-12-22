@@ -32,15 +32,15 @@
                     :background "#fdf6e3"
                     :box nil)
 
-(defface powerline-active1 '((t (:background "#268bd2" :inherit mode-line)))
+(defface powerline-active1 '((t (:background "#69D2E7" :inherit mode-line)))
   "Powerline face 1."
   :group 'powerline)
 
-(defface powerline-active2 '((t (:background "#859900" :inherit mode-line)))
+(defface powerline-active2 '((t (:background "#A7DBD8" :inherit mode-line)))
   "Powerline face 2."
   :group 'powerline)
 
-(defface powerline-active3 '((t (:background "#b58900" :inherit mode-line)))
+(defface powerline-active3 '((t (:background "#859900" :inherit mode-line)))
   "Powerline face 3."
   :group 'powerline)
 
